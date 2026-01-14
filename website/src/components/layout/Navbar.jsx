@@ -99,6 +99,7 @@ const Navbar = () => {
                 <img 
                   src="/logo1.png" 
                   alt="Oryx Logo" 
+                  loading='eager'
                   className="h-12 w-16"
                 />
               </div>
